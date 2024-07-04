@@ -5,6 +5,6 @@ This project was carried out in class where I implemented a brute force attack t
 The program performs a brute force attack on a web server by sending HTTP POST requests with different password combinations. It uses HttpClient to send the requests and ThreadPool to handle multiple threads to speed up the testing process.
 
 ## Requirements
-.NET Core SDK
-Internet connection
-Permission to perform security testing on the target server
+1. .NET Core SDK
+2. Internet connection
+3. Permission to perform security testing on the target server
